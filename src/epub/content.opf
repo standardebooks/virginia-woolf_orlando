@@ -40,14 +40,16 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008111482</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The romping tale of a young Elizabethan poet who finds success elusive until 1928, when Orlando—now a woman—embraces the spirit of the age.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Originally published in 1928, &lt;i&gt;Orlando&lt;/i&gt;, one of &lt;a href="https://standardebooks.org/ebooks/virginia-woolf"&gt;Virginia Woolf’s&lt;/a&gt; better-known novels, provides a splendid example of Modernist experimentation with genre and storytelling.&lt;/p&gt;
+			&lt;p&gt;Orlando is a young Elizabethan nobleman who loves writing poetry as much as hunting, wrestling with the household dogs, and a fine night’s carousing. After being favoured by Queen Elizabeth herself, he falls tragically in love. As he nurses a decades-long heartbreak, Orlando realizes that poetry provides little solace. Sometime in the eighteenth century he escapes England as an ambassador to Turkey, where after a mysterious illness he awakens as a woman—but still not a published author. While reading, writing, and the critics expand, Orlando’s poetic aspirations remain frustrated until the twentieth century, when, having returned to England, she finds love, life, and her voice at last.&lt;/p&gt;
+			&lt;p&gt;On its surface the biography of a fantastic Elizabethan nobleman, the novel is frequently described as a love letter to Vita Sackville-West, who had a lengthy affair with Woolf in the early 1920s and whose family history undergirds much of the detail of Orlando’s life and home. &lt;i&gt;Orlando&lt;/i&gt; also features Woolf’s masterful stream of consciousness technique, employed metafictionally as Orlando and the narrator compose in tandem the novel’s intricate final chapter. Most importantly, Orlando’s absurd fantasy is underpinned by wit and humour: &lt;i&gt;Orlando&lt;/i&gt; is a comic—sometimes satirical—text, revealing a side of Woolf rarely seen in her earlier work.&lt;/p&gt;
+			&lt;p&gt;A lighthearted romp of a book, &lt;i&gt;Orlando&lt;/i&gt; remains resolutely literary and asks lingering questions about the construction of gender, the intersection between “the spirit of the age” and artistic creation, and what loving another person really means. Woolf was one of the most important Modernist writers, and Orlando reveals her at her playful, shimmering—dare we say sexy?—best.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20141209</dc:source>
 		<dc:source>https://archive.org/details/dli.ernet.524751</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Orlando:_A_Biography</meta>
@@ -62,7 +64,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">wat</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Anthony van Dyck</dc:contributor>
-		<meta property="file-as" refines="#artist">van Dyck, Anthony </meta>
+		<meta property="file-as" refines="#artist">van Dyck, Anthony</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Anthony_van_Dyck</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50070302</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>

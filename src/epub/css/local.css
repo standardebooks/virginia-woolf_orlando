@@ -66,6 +66,8 @@ section[epub|type~="dedication"] > *{
 
 figure{
 	break-inside: avoid;
+	margin: 1em 40px;
+	text-align: center;
 }
 
 figure img{
@@ -78,6 +80,26 @@ figcaption{
 	font-size: .75em;
 	font-style: italic;
 	margin: 1em;
+}
+
+figure.full-page{
+	break-after: page;
+	break-before: page;
+	margin: 0;
+	max-height: 100vh;
+	text-align: center;
+}
+
+@supports(display: flex){
+	figure.full-page{
+		display: flex;
+		flex-direction: column;
+	}
+
+	figure.full-page img{
+		height: 100vh;
+		object-fit: contain;
+	}
 }
 
 hr:nth-of-type(2){

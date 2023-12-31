@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/virginia-woolf/orlando</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-01-01T17:33:15Z</dc:date>
+		<meta property="dcterms:modified">2024-01-01T17:33:15Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -47,18 +47,19 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008111482</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">The romping tale of a young Elizabethan poet who finds success elusive until 1928, when Orlando—now a woman—embraces the spirit of the age.</dc:description>
+		<dc:description id="description">A young Elizabethan poet for whom success is elusive becomes a woman and embraces the spirit of the age.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Originally published in 1928, &lt;i&gt;Orlando&lt;/i&gt;, one of &lt;a href="https://standardebooks.org/ebooks/virginia-woolf"&gt;Virginia Woolf’s&lt;/a&gt; better-known novels, provides a splendid example of Modernist experimentation with genre and storytelling.&lt;/p&gt;
-			&lt;p&gt;Orlando is a young Elizabethan nobleman who loves writing poetry as much as hunting, wrestling with the household dogs, and a fine night’s carousing. After being favoured by Queen Elizabeth herself, he falls tragically in love. As he nurses a decades-long heartbreak, Orlando realizes that poetry provides little solace. Sometime in the eighteenth century he escapes England as an ambassador to Turkey, where after a mysterious illness he awakens as a woman—but still not a published author. While reading, writing, and the critics expand, Orlando’s poetic aspirations remain frustrated until the twentieth century, when, having returned to England, she finds love, life, and her voice at last.&lt;/p&gt;
-			&lt;p&gt;On its surface the biography of a fantastic Elizabethan nobleman, the novel is frequently described as a love letter to Vita Sackville-West, who had a lengthy affair with Woolf in the early 1920s and whose family history undergirds much of the detail of Orlando’s life and home. &lt;i&gt;Orlando&lt;/i&gt; also features Woolf’s masterful stream of consciousness technique, employed metafictionally as Orlando and the narrator compose in tandem the novel’s intricate final chapter. Most importantly, Orlando’s absurd fantasy is underpinned by wit and humour: &lt;i&gt;Orlando&lt;/i&gt; is a comic—sometimes satirical—text, revealing a side of Woolf rarely seen in her earlier work.&lt;/p&gt;
+			&lt;p&gt;Orlando is a young Elizabethan nobleman who loves writing poetry as much as he does hunting, wrestling with the household dogs, and a indulging in a fine night’s carouse. After being favored by Queen Elizabeth herself, he falls tragically in love. But as he nurses a decades-long heartbreak, Orlando realizes that poetry provides little solace.&lt;/p&gt;
+			&lt;p&gt;Sometime in the eighteenth century he escapes England as an ambassador to Turkey, where after a mysterious illness he awakens as a woman—but still not a published author. While the arts of reading, writing, criticism expand, Orlando’s poetic aspirations remain frustrated until the twentieth century, when, having returned to England, she finds love, life, and her voice at last.&lt;/p&gt;
+			&lt;p&gt;On its surface the biography of a fantastic Elizabethan nobleman, the novel is frequently described as a love letter to Vita Sackville-West, who had a lengthy affair with Woolf in the early 1920s and whose family history undergirds much of the detail of Orlando’s life and home. &lt;i&gt;Orlando&lt;/i&gt; also features Woolf’s masterful stream of consciousness technique, employed metafictionally as Orlando and the narrator compose in tandem the novel’s intricate final chapter. Most importantly, Orlando’s absurd fantasy is underpinned by wit and humor: &lt;i&gt;Orlando&lt;/i&gt; is a comic—sometimes satirical—text, revealing a side of Woolf rarely seen in her earlier work.&lt;/p&gt;
 			&lt;p&gt;A lighthearted romp of a book, &lt;i&gt;Orlando&lt;/i&gt; remains resolutely literary and asks lingering questions about the construction of gender, the intersection between “the spirit of the age” and artistic creation, and what loving another person really means. Woolf was one of the most important Modernist writers, and Orlando reveals her at her playful, shimmering—dare we say sexy?—best.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20141209</dc:source>
 		<dc:source>https://archive.org/details/dli.ernet.524751</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">79859</meta>
+		<meta property="se:reading-ease.flesch">64.95</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Orlando:_A_Biography</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/virginia-woolf_orlando</meta>
 		<dc:creator id="author">Virginia Woolf</dc:creator>
@@ -104,6 +105,10 @@
 		<meta property="role" refines="#producer-2" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-3">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-3">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-3">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
